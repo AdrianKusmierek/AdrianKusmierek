@@ -11,7 +11,7 @@ I can code in a variety of different languages like:
 - HTML
 - CSS
 
-But I mostly code in JavaScript, because, ehh.. Yes.
+But I mostly code in <b>JavaScript</b>, because, ehh.. Yes.
 
 I guess it isn't the fastest language but to me it's the most comfortable.
 
