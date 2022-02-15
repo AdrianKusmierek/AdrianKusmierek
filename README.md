@@ -2,7 +2,7 @@
 ## Introduction
 Heya! I'm Adrian Kuśmierek and it's a pleasure to meet you!
 
-I come from Poland and I love biscuits ^w^
+I come from Poland and I'm happy you visted my profile.
 ## Something About Me
 I'm a self-taught "developer". Aka just some guy who tries to code ^^
 
