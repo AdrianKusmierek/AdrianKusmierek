@@ -2,7 +2,7 @@
 ## Introduction
 Heya! I'm Adrian Kuśmierek and it's a pleasure to meet you!
 
-I come from Poland and I'm happy you visted my profile.
+I come from Poland and I'm happy you visited my profile.
 ## Something About Me
 I'm a self-taught "developer". Aka just some guy who tries to code ^^
 
@@ -10,6 +10,9 @@ I can code in a variety of different languages like:
 - C++
 - HTML
 - CSS
+- JavaScript
+- C#
+- SQL
 
 But I mostly code in <b>JavaScript</b>, because, ehh.. Yes.
 
