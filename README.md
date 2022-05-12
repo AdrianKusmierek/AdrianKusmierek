@@ -29,7 +29,7 @@ if (!happy) {
 }
 ```
 ## Take a look around!
-Either way! Go ahead and have a look around my profile, and the projects I'm working on!
+Either way! Go ahead and take a look around my profile, and the projects I'm working on!
 
 Cheers,
 
