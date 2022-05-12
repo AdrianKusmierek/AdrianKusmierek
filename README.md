@@ -7,7 +7,6 @@ I come from Poland and I'm happy you visited my profile.
 I'm a self-taught "developer". Aka just some guy who tries to code ^^
 
 I can code in a variety of different languages like:
-- C++
 - HTML
 - CSS
 - JavaScript
