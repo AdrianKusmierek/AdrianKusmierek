@@ -1,4 +1,4 @@
-# Adrian S. Kuśmierek <img align="right" width="200" height="200" src="https://media.discordapp.net/attachments/701882287176024198/941746170470989824/huggo.png">
+# Adrian S. Kuśmierek <img align="right" width="200" height="200" src="https://media.discordapp.net/attachments/701882287176024198/974108955531964436/chops.png">
 ## Introduction
 Heya! I'm Adrian Kuśmierek and it's a pleasure to meet you!
 
