@@ -10,16 +10,16 @@ I can code in a variety of different languages like:
 - HTML
 - CSS
 - JavaScript
-- C#
 - SQL
+- C#
 
-But I mostly code in <b>JavaScript</b>, because, ehh.. Yes.
+But I mostly code in <b>JavaScript</b> simply because I love how much functionality and potential it has with NodeJS.
 
-I guess it isn't the fastest language but to me it's the most comfortable.
-
-Especially with the functionality NodeJS adds to it!
-## Have a nice day!
-Anyways, yeah. If you wanna have a look around my profile, go for it!
+It might not be the fastest language but to me it's the most comfortable.
+## Take a look around!
+Either way! Go ahead and have a look around my profile, and the projects I'm working on!
 
 Cheers,
+
+<img width="200" height="38" src="https://media.discordapp.net/attachments/701882287176024198/974103298489606224/ak-githbux.png">
 Adrian.
