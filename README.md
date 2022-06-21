@@ -1,4 +1,4 @@
-# Adrian S. Kuśmierek <img align="right" width="200" height="200" src="https://media.discordapp.net/attachments/701882287176024198/974108955531964436/chops.png">
+# Adrian S. Kuśmierek <img align="right" width="200" height="200" src="https://media.discordapp.net/attachments/985156774262898708/988950691957575741/happyBlep.png">
 ## Introduction
 Heya! I'm Adrian Kuśmierek and it's a pleasure to meet you!
 
@@ -32,6 +32,4 @@ if (!happy) {
 Either way! Go ahead and take a look around my profile, and the projects I'm working on!
 
 Cheers,
-
-<img width="200" height="38" src="https://media.discordapp.net/attachments/701882287176024198/974103298489606224/ak-githbux.png">
 Adrian.
