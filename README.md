@@ -1,4 +1,4 @@
-# Adrian S. Kuśmierek <img align="right" width="200" height="200" src="https://media.discordapp.net/attachments/985156774262898708/988950691957575741/happyBlep.png">
+# Adrian S. Kuśmierek <img align="right" width="200" height="200" src="images/gay_juice-transparent.png">
 ## Introduction
 Heya! I'm Adrian Kuśmierek and it's a pleasure to meet you!
 
