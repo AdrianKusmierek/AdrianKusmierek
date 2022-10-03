@@ -1,4 +1,4 @@
-# Adrian S. Kuśmierek <img align="right" width="200" height="200" src="images/gay_juice-transparent.png">
+# Adrian S. Kuśmierek <img align="right" width="200" height="200" src="gay_juice-transparent.png">
 ## Introduction
 Heya! I'm Adrian Kuśmierek and it's a pleasure to meet you!
 
