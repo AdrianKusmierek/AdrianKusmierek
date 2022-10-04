@@ -18,15 +18,17 @@ But I mostly code in <b>JavaScript</b> simply because I love how much functional
 It might not be the fastest language but to me it's the most comfortable.
 
 ```js
-var happy = false;
-	
-function getHappy() {
-	happy = true;
-}
+const mood = require("emotions");
 
-if (!happy) {
-	getHappy();
-}
+mood.once("change", mood => {
+   if (mood != "happy") {
+      mood = "happy";
+
+      console.log("I'm happi now ^w^");
+   } else {
+      console.log("I was happi already! :3");
+   }
+});
 ```
 ## Take a look around!
 Either way! Go ahead and take a look around my profile, and the projects I'm working on!
