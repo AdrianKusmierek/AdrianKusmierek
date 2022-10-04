@@ -20,7 +20,7 @@ It might not be the fastest language but to me it's the most comfortable.
 ```js
 const emotions = require("emotions");
 
-emotions.once("change", mood => {
+emotions.on("change", mood => {
    if (mood != "happy") {
       mood = "happy";
 
