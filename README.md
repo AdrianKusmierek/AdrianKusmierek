@@ -18,7 +18,7 @@ But I mostly code in <b>JavaScript</b> simply because I love how much functional
 It might not be the fastest language but to me it's the most comfortable.
 
 ```js
-const { emotions } = require("AdrianKusmierek");
+const { emotions } = require("Adrian S. Kuśmierek");
 
 emotions.on("change", mood => {
    if (mood != "happy") {
