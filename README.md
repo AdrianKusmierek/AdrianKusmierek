@@ -1,4 +1,4 @@
-# Adrian S. Kuśmierek <img align="right" width="200" height="200" src="main.png">
+# Adrian S. Kuśmierek
 ## Introduction
 Heya! I'm Adrian Kuśmierek and it's a pleasure to meet you!
 
@@ -7,11 +7,12 @@ I come from Poland and I'm happy you visited my profile.
 I'm a self-taught "developer". Aka just some guy who tries to code ^^
 
 I can code in a variety of different languages like:
-- HTML
-- CSS
-- JavaScript
+- HTML & CSS
+- NASM
+- JavaScript (Node.JS)
 - SQL
 - C#
+- C++
 
 But I mostly code in <b>JavaScript</b> simply because I love how much functionality and potential it has with NodeJS.
 
